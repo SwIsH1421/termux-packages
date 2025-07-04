@@ -1,4 +1,4 @@
-[*]
+[*].editorconfig
 trim_trailing_whitespace = true
 
 [*.{patch,.diff,.patch.*}]
